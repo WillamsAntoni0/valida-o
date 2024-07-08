@@ -62,9 +62,7 @@ div{
         <h1>Login</h1>
         <input placeholder="Email" type="email" required>
          <br><br><br>
-        <input placeholder="senha do cadastro" type="password" required>
-        <br><br><br>
-        <input placeholder="úsuario" type="text" required>
+       <input placeholder="úsuario" type="text" required>
         <br><br><br>
         <input placeholder="servidor" type="text" required>
         <br><br><br>
