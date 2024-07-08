@@ -64,7 +64,7 @@ div{
          <br><br><br>
        <input placeholder="úsuario" type="text" required>
         <br><br><br>
-        <input placeholder="servidor" type="text" required>
+        <input placeholder="senha" type="password" required>
         <br><br><br>
         <button id="btn">Válidar</button>
       </form>
